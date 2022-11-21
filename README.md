@@ -1,2 +1,2 @@
 # ADA Let's code
-Atividades feitas em uma disciplina. Serão utilizadas diversos bancos de dados
+Esse projeto contém a análise feita sobre os dados de uma empresa fictícia durante o aprendizado no módulo de *TÉCNICAS DE PROGRAMAÇÃO I* (em Python) referente ao programa de aprendizado *DiversidadeTech* da \_ADA Let's Code\_ patrocinado pela \_Suzano\_.
