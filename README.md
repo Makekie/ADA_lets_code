@@ -6,3 +6,9 @@ Esse repositório diz respeito aos projetos desenvolvidos durante o curso Divers
  
 2. Banco de dados:
   - Modelo de entidade e relacionamento, scripts da criação de banco, tabela, população de tabela e querys.
+
+3. Análise das causas de morte ao redor do mundo, foi uma atividade feita em conjunto com Rhuan e Igor. Nela tivemos que procurar uma base de dados no Kaggle para poder contar uma história.
+
+4. Copas do mundo de futebol foi uma análise proposta pelo professor Thiago. Nela tivemos como objetivo treinar diferentes formas de se fazer pesquisas e assim obter informações.
+
+5. Dados felicidade foi mais um projeto feito em conjunto com Rhuan e Igor.
