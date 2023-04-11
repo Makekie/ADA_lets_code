@@ -11,4 +11,4 @@ Esse repositório diz respeito aos projetos desenvolvidos durante o curso Divers
 
 4. Copas do mundo de futebol foi uma análise proposta pelo professor Thiago. Nela tivemos como objetivo treinar diferentes formas de se fazer pesquisas e assim obter informações.
 
-5. Dados felicidade foi mais um projeto feito em conjunto com Rhuan e Igor.
+5. Dados felicidade foi mais um projeto feito em conjunto com Rhuan e Igor. Até o presente momento a análise se encontra em construção.
